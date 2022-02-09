@@ -9,3 +9,5 @@ maven
 tomcat
 jenkins
 nexus
+aws
+nat
